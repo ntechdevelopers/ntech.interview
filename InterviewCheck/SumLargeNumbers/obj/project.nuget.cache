@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "914l3r5hIF/AbnqckBzWMHAMWY2Cy75RKfJwuK7vubhhkLZizuW0FdPuHm7WxTsxOMo99IJUOfaaq54Yl0EG0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Temp\\InterviewCheck\\SumLargeNumbers\\SumLargeNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\namvut\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

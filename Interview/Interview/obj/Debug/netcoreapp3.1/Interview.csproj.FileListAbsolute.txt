@@ -1,0 +1,14 @@
+C:\Users\namvut\Desktop\Interview\Interview\bin\Debug\netcoreapp3.1\Interview.exe
+C:\Users\namvut\Desktop\Interview\Interview\bin\Debug\netcoreapp3.1\Interview.deps.json
+C:\Users\namvut\Desktop\Interview\Interview\bin\Debug\netcoreapp3.1\Interview.runtimeconfig.json
+C:\Users\namvut\Desktop\Interview\Interview\bin\Debug\netcoreapp3.1\Interview.runtimeconfig.dev.json
+C:\Users\namvut\Desktop\Interview\Interview\bin\Debug\netcoreapp3.1\Interview.dll
+C:\Users\namvut\Desktop\Interview\Interview\bin\Debug\netcoreapp3.1\Interview.pdb
+C:\Users\namvut\Desktop\Interview\Interview\obj\Debug\netcoreapp3.1\Interview.csproj.AssemblyReference.cache
+C:\Users\namvut\Desktop\Interview\Interview\obj\Debug\netcoreapp3.1\Interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namvut\Desktop\Interview\Interview\obj\Debug\netcoreapp3.1\Interview.AssemblyInfoInputs.cache
+C:\Users\namvut\Desktop\Interview\Interview\obj\Debug\netcoreapp3.1\Interview.AssemblyInfo.cs
+C:\Users\namvut\Desktop\Interview\Interview\obj\Debug\netcoreapp3.1\Interview.csproj.CoreCompileInputs.cache
+C:\Users\namvut\Desktop\Interview\Interview\obj\Debug\netcoreapp3.1\Interview.dll
+C:\Users\namvut\Desktop\Interview\Interview\obj\Debug\netcoreapp3.1\Interview.pdb
+C:\Users\namvut\Desktop\Interview\Interview\obj\Debug\netcoreapp3.1\Interview.genruntimeconfig.cache

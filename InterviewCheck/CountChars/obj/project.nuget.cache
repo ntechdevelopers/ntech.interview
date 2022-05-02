@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RUWi9TVtas4mOhseycm428VZZbl2d8YLMyUynbU89Z1ox4FDdWoVfjK38cn4ly0CNrQl4/0vavH8H4qnmk0XeQ==",
+  "success": true,
+  "projectFilePath": "D:\\Temp\\InterviewCheck\\CountChars\\CountChars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\namvut\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

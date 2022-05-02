@@ -1,0 +1,14 @@
+D:\Temp\InterviewCheck\CountChars\bin\Debug\netcoreapp3.1\CountChars.exe
+D:\Temp\InterviewCheck\CountChars\bin\Debug\netcoreapp3.1\CountChars.deps.json
+D:\Temp\InterviewCheck\CountChars\bin\Debug\netcoreapp3.1\CountChars.runtimeconfig.json
+D:\Temp\InterviewCheck\CountChars\bin\Debug\netcoreapp3.1\CountChars.runtimeconfig.dev.json
+D:\Temp\InterviewCheck\CountChars\bin\Debug\netcoreapp3.1\CountChars.dll
+D:\Temp\InterviewCheck\CountChars\bin\Debug\netcoreapp3.1\CountChars.pdb
+D:\Temp\InterviewCheck\CountChars\obj\Debug\netcoreapp3.1\CountChars.csproj.AssemblyReference.cache
+D:\Temp\InterviewCheck\CountChars\obj\Debug\netcoreapp3.1\CountChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\InterviewCheck\CountChars\obj\Debug\netcoreapp3.1\CountChars.AssemblyInfoInputs.cache
+D:\Temp\InterviewCheck\CountChars\obj\Debug\netcoreapp3.1\CountChars.AssemblyInfo.cs
+D:\Temp\InterviewCheck\CountChars\obj\Debug\netcoreapp3.1\CountChars.csproj.CoreCompileInputs.cache
+D:\Temp\InterviewCheck\CountChars\obj\Debug\netcoreapp3.1\CountChars.dll
+D:\Temp\InterviewCheck\CountChars\obj\Debug\netcoreapp3.1\CountChars.pdb
+D:\Temp\InterviewCheck\CountChars\obj\Debug\netcoreapp3.1\CountChars.genruntimeconfig.cache

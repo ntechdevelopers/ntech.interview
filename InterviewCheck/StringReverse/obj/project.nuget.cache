@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+1+FGrqi/JhEr8G6nXVvNwfnA0E5XbSDMtBL3zylRCDnTF+19c61m8EKyf/03efgpq5xNLPAN5Z82K4ju1VLfQ==",
+  "success": true,
+  "projectFilePath": "D:\\Temp\\InterviewCheck\\StringReverse\\StringReverse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\namvut\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

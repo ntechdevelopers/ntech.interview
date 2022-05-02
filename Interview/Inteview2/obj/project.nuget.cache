@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xosV2LS/AwBkDiFhA6/KDwmaKT3ulrgi43Fee+VqAf9ZqU7YGHQ7XdoJ184PwH0+1krjrlA5D3DsJxv0JyAehg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\namvut\\Desktop\\Interview\\Inteview2\\Inteview2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\namvut\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

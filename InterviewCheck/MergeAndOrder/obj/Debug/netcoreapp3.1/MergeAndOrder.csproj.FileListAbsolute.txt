@@ -1,0 +1,13 @@
+D:\Temp\InterviewCheck\MergeAndOrder\bin\Debug\netcoreapp3.1\MergeAndOrder.exe
+D:\Temp\InterviewCheck\MergeAndOrder\bin\Debug\netcoreapp3.1\MergeAndOrder.deps.json
+D:\Temp\InterviewCheck\MergeAndOrder\bin\Debug\netcoreapp3.1\MergeAndOrder.runtimeconfig.json
+D:\Temp\InterviewCheck\MergeAndOrder\bin\Debug\netcoreapp3.1\MergeAndOrder.runtimeconfig.dev.json
+D:\Temp\InterviewCheck\MergeAndOrder\bin\Debug\netcoreapp3.1\MergeAndOrder.dll
+D:\Temp\InterviewCheck\MergeAndOrder\bin\Debug\netcoreapp3.1\MergeAndOrder.pdb
+D:\Temp\InterviewCheck\MergeAndOrder\obj\Debug\netcoreapp3.1\MergeAndOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\InterviewCheck\MergeAndOrder\obj\Debug\netcoreapp3.1\MergeAndOrder.AssemblyInfoInputs.cache
+D:\Temp\InterviewCheck\MergeAndOrder\obj\Debug\netcoreapp3.1\MergeAndOrder.AssemblyInfo.cs
+D:\Temp\InterviewCheck\MergeAndOrder\obj\Debug\netcoreapp3.1\MergeAndOrder.csproj.CoreCompileInputs.cache
+D:\Temp\InterviewCheck\MergeAndOrder\obj\Debug\netcoreapp3.1\MergeAndOrder.dll
+D:\Temp\InterviewCheck\MergeAndOrder\obj\Debug\netcoreapp3.1\MergeAndOrder.pdb
+D:\Temp\InterviewCheck\MergeAndOrder\obj\Debug\netcoreapp3.1\MergeAndOrder.genruntimeconfig.cache

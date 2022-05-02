@@ -1,0 +1,14 @@
+C:\Users\namvut\Desktop\Interview\Inteview2\bin\Debug\netcoreapp3.1\Inteview2.exe
+C:\Users\namvut\Desktop\Interview\Inteview2\bin\Debug\netcoreapp3.1\Inteview2.deps.json
+C:\Users\namvut\Desktop\Interview\Inteview2\bin\Debug\netcoreapp3.1\Inteview2.runtimeconfig.json
+C:\Users\namvut\Desktop\Interview\Inteview2\bin\Debug\netcoreapp3.1\Inteview2.runtimeconfig.dev.json
+C:\Users\namvut\Desktop\Interview\Inteview2\bin\Debug\netcoreapp3.1\Inteview2.dll
+C:\Users\namvut\Desktop\Interview\Inteview2\bin\Debug\netcoreapp3.1\Inteview2.pdb
+C:\Users\namvut\Desktop\Interview\Inteview2\obj\Debug\netcoreapp3.1\Inteview2.csproj.AssemblyReference.cache
+C:\Users\namvut\Desktop\Interview\Inteview2\obj\Debug\netcoreapp3.1\Inteview2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namvut\Desktop\Interview\Inteview2\obj\Debug\netcoreapp3.1\Inteview2.AssemblyInfoInputs.cache
+C:\Users\namvut\Desktop\Interview\Inteview2\obj\Debug\netcoreapp3.1\Inteview2.AssemblyInfo.cs
+C:\Users\namvut\Desktop\Interview\Inteview2\obj\Debug\netcoreapp3.1\Inteview2.csproj.CoreCompileInputs.cache
+C:\Users\namvut\Desktop\Interview\Inteview2\obj\Debug\netcoreapp3.1\Inteview2.dll
+C:\Users\namvut\Desktop\Interview\Inteview2\obj\Debug\netcoreapp3.1\Inteview2.pdb
+C:\Users\namvut\Desktop\Interview\Inteview2\obj\Debug\netcoreapp3.1\Inteview2.genruntimeconfig.cache

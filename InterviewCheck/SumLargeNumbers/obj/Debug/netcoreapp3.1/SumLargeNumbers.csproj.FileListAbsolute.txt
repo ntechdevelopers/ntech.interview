@@ -1,0 +1,14 @@
+D:\Temp\InterviewCheck\SumLargeNumbers\bin\Debug\netcoreapp3.1\SumLargeNumbers.exe
+D:\Temp\InterviewCheck\SumLargeNumbers\bin\Debug\netcoreapp3.1\SumLargeNumbers.deps.json
+D:\Temp\InterviewCheck\SumLargeNumbers\bin\Debug\netcoreapp3.1\SumLargeNumbers.runtimeconfig.json
+D:\Temp\InterviewCheck\SumLargeNumbers\bin\Debug\netcoreapp3.1\SumLargeNumbers.runtimeconfig.dev.json
+D:\Temp\InterviewCheck\SumLargeNumbers\bin\Debug\netcoreapp3.1\SumLargeNumbers.dll
+D:\Temp\InterviewCheck\SumLargeNumbers\bin\Debug\netcoreapp3.1\SumLargeNumbers.pdb
+D:\Temp\InterviewCheck\SumLargeNumbers\obj\Debug\netcoreapp3.1\SumLargeNumbers.csproj.AssemblyReference.cache
+D:\Temp\InterviewCheck\SumLargeNumbers\obj\Debug\netcoreapp3.1\SumLargeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\InterviewCheck\SumLargeNumbers\obj\Debug\netcoreapp3.1\SumLargeNumbers.AssemblyInfoInputs.cache
+D:\Temp\InterviewCheck\SumLargeNumbers\obj\Debug\netcoreapp3.1\SumLargeNumbers.AssemblyInfo.cs
+D:\Temp\InterviewCheck\SumLargeNumbers\obj\Debug\netcoreapp3.1\SumLargeNumbers.csproj.CoreCompileInputs.cache
+D:\Temp\InterviewCheck\SumLargeNumbers\obj\Debug\netcoreapp3.1\SumLargeNumbers.dll
+D:\Temp\InterviewCheck\SumLargeNumbers\obj\Debug\netcoreapp3.1\SumLargeNumbers.pdb
+D:\Temp\InterviewCheck\SumLargeNumbers\obj\Debug\netcoreapp3.1\SumLargeNumbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Temp\InterviewCheck\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.exe
+D:\Temp\InterviewCheck\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.deps.json
+D:\Temp\InterviewCheck\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.runtimeconfig.json
+D:\Temp\InterviewCheck\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.runtimeconfig.dev.json
+D:\Temp\InterviewCheck\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.dll
+D:\Temp\InterviewCheck\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.pdb
+D:\Temp\InterviewCheck\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\InterviewCheck\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.AssemblyInfoInputs.cache
+D:\Temp\InterviewCheck\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.AssemblyInfo.cs
+D:\Temp\InterviewCheck\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.csproj.CoreCompileInputs.cache
+D:\Temp\InterviewCheck\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.dll
+D:\Temp\InterviewCheck\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.pdb
+D:\Temp\InterviewCheck\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.genruntimeconfig.cache

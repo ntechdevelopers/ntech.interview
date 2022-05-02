@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xH199ckZNkU174y+RXjzhMDqVHCdUEx7ooZlXzrgCUhbDD16CVMA06hp5xt5zalM78w9AyKxmEdVQExrlzjwCA==",
+  "success": true,
+  "projectFilePath": "D:\\Temp\\InterviewCheck\\Palindrome\\Palindrome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\namvut\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
